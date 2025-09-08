@@ -1,5 +1,3 @@
-
-# Follow-me
 1) Vysoká úroveň řešení (co dělá který blok)
 Percepce
 Kamera + YOLOv4 → detekce osoby (bounding box + confidence).
